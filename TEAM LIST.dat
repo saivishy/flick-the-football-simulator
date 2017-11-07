@@ -1,0 +1,484 @@
+(i__main__
+team
+p0
+(dp1
+S'a'
+p2
+I2
+sS'md'
+p3
+S'Ramires'
+p4
+sS'name'
+p5
+S'BRAZIL'
+p6
+sS'dfnse'
+p7
+S'Marcelo'
+p8
+sS'm'
+p9
+I4
+sS'mid'
+p10
+(lp11
+S'FERNANDINHO'
+p12
+aS'PAULINHO'
+p13
+aS'OSCAR'
+p14
+aS'RAMIRES'
+p15
+asS'goalie'
+p16
+S'J\xdaLIO C\xc9SAR'
+p17
+sS'attack'
+p18
+(lp19
+S'NEYMAR'
+p20
+aS'HULK'
+p21
+asS'defense'
+p22
+(lp23
+S'DANIEL ALVES'
+p24
+aS'THIAGO SILVA'
+p25
+aS'DAVID LUIZ'
+p26
+aS'MARCELO'
+p27
+asS'option'
+p28
+S''
+p29
+sS'choice'
+p30
+g29
+sS'atck'
+p31
+S'Hulk'
+p32
+sS'd'
+p33
+I4
+sb.(i__main__
+team
+p0
+(dp1
+S'a'
+p2
+I2
+sS'md'
+p3
+S'\xc1ngel Di Mar\xeda'
+p4
+sS'name'
+p5
+S'ARGENTINA'
+p6
+sS'dfnse'
+p7
+S'Jonathan Silva'
+p8
+sS'm'
+p9
+I4
+sS'mid'
+p10
+(lp11
+S'MAXI RODR\xcdGUEZ'
+p12
+aS'ENZO P\xc9REZ'
+p13
+aS'JAVIER MASCHERANO'
+p14
+aS'\xc1NGEL DI MAR\xcdA'
+p15
+asS'goalie'
+p16
+S'SERGIO ROMERO'
+p17
+sS'attack'
+p18
+(lp19
+S'LIONEL MESSI '
+p20
+aS'SERGIO AG\xdcERO'
+p21
+asS'defense'
+p22
+(lp23
+S'MILTON CASCO'
+p24
+aS'PABLO ZABALETA'
+p25
+aS'FEDERICO FERN\xc1NDEZ'
+p26
+aS'JONATHAN SILVA'
+p27
+asS'option'
+p28
+S''
+p29
+sS'choice'
+p30
+g29
+sS'atck'
+p31
+S'Sergio Ag\xfcero'
+p32
+sS'd'
+p33
+I4
+sb.(i__main__
+team
+p0
+(dp1
+S'a'
+p2
+I2
+sS'md'
+p3
+S'Sami Khedira'
+p4
+sS'name'
+p5
+S'GERMANY'
+p6
+sS'dfnse'
+p7
+S'Sebastian Rudy'
+p8
+sS'm'
+p9
+I4
+sS'mid'
+p10
+(lp11
+S'LUKAS PODOLSKI'
+p12
+aS'BASTIAN SCHWEINSTEIGER'
+p13
+aS'MESUT \xd6ZIL'
+p14
+aS'SAMI KHEDIRA'
+p15
+asS'goalie'
+p16
+S'RON-ROBERT ZIELER'
+p17
+sS'attack'
+p18
+(lp19
+S'MARIO G\xd6TZE'
+p20
+aS'MAX KRUSE'
+p21
+asS'defense'
+p22
+(lp23
+S'J\xc9R\xd4ME BOATENG'
+p24
+aS'MATS HUMMELS'
+p25
+aS'ERIK DURM'
+p26
+aS'SEBASTIAN RUDY'
+p27
+asS'option'
+p28
+S''
+p29
+sS'choice'
+p30
+g29
+sS'atck'
+p31
+S'Max Kruse'
+p32
+sS'd'
+p33
+I4
+sb.(i__main__
+team
+p0
+(dp1
+S'a'
+p2
+I2
+sS'md'
+p3
+S'Ross Barkley'
+p4
+sS'name'
+p5
+S'ENGLAND'
+p6
+sS'dfnse'
+p7
+S'Chris Smalling'
+p8
+sS'm'
+p9
+I4
+sS'mid'
+p10
+(lp11
+S'JACK WILSHERE'
+p12
+aS'TOM CLEVERLEY'
+p13
+aS'JAMES MILNER'
+p14
+aS'ROSS BARKLEY'
+p15
+asS'goalie'
+p16
+S'JOE HART'
+p17
+sS'attack'
+p18
+(lp19
+S'THEO WALCOTT'
+p20
+aS'WAYNE ROONEY'
+p21
+asS'defense'
+p22
+(lp23
+S'PHIL JONES'
+p24
+aS'KIERAN GIBBS'
+p25
+aS'GARY CAHILL'
+p26
+aS'CHRIS SMALLING'
+p27
+asS'option'
+p28
+S''
+p29
+sS'choice'
+p30
+g29
+sS'atck'
+p31
+S'Wayne Rooney'
+p32
+sS'd'
+p33
+I4
+sb.(i__main__
+team
+p0
+(dp1
+S'a'
+p2
+I3
+sS'md'
+p3
+S'David Silva'
+p4
+sS'name'
+p5
+S'SPAIN'
+p6
+sS'dfnse'
+p7
+S'Jordi Alba'
+p8
+sS'm'
+p9
+I4
+sS'mid'
+p10
+(lp11
+S'ANDR\xc9S INIESTA'
+p12
+aS'CESC F\xc0BREGAS'
+p13
+aS'JUAN MATA'
+p14
+aS'DAVID SILVA'
+p15
+asS'goalie'
+p16
+S'IKER CASILLAS'
+p17
+sS'attack'
+p18
+(lp19
+S'DIEGO COSTA'
+p20
+aS'PEDRO'
+p21
+aS'ISCO'
+p22
+asS'defense'
+p23
+(lp24
+S'GERARD PIQU\xc9'
+p25
+aS'SERGIO RAMOS'
+p26
+aS'JORDI ALBA'
+p27
+asS'option'
+p28
+S''
+p29
+sS'choice'
+p30
+g29
+sS'atck'
+p31
+S'Isco'
+p32
+sS'd'
+p33
+I3
+sb.(i__main__
+team
+p0
+(dp1
+S'a'
+p2
+I3
+sS'md'
+p3
+S'Angel di Maria'
+p4
+sS'name'
+p5
+S'WORLD XI'
+p6
+sS'dfnse'
+p7
+S'Thiago Silva'
+p8
+sS'm'
+p9
+I3
+sS'mid'
+p10
+(lp11
+S'ANDRES INIESTA'
+p12
+aS'TONI KROOS'
+p13
+aS'ANGEL DI MARIA'
+p14
+asS'goalie'
+p15
+S'MANUEL NEUER'
+p16
+sS'attack'
+p17
+(lp18
+S'LIONEL MESSI'
+p19
+aS'CRISTIANO RONALDO'
+p20
+aS'ARJEN ROBBEN'
+p21
+asS'defense'
+p22
+(lp23
+S'LAHM'
+p24
+aS'DAVID LUIZ'
+p25
+aS'SERGIO RAMOS'
+p26
+aS'THIAGO SILVA'
+p27
+asS'option'
+p28
+S''
+p29
+sS'choice'
+p30
+g29
+sS'atck'
+p31
+S'Arjen Robben'
+p32
+sS'd'
+p33
+I4
+sb.(i__main__
+team
+p0
+(dp1
+S'a'
+p2
+I3
+sS'md'
+p3
+S'Ab\xe9di Pel\xe9'
+p4
+sS'name'
+p5
+S'CLASSIC XI'
+p6
+sS'dfnse'
+p7
+S'Ronald Koeman'
+p8
+sS'm'
+p9
+I3
+sS'mid'
+p10
+(lp11
+S'ZICO'
+p12
+aS'ROBERTO RIVELINO'
+p13
+aS'AB\xc9DI PEL\xc9'
+p14
+asS'goalie'
+p15
+S'THOMAS RAVELLI'
+p16
+sS'attack'
+p17
+(lp18
+S'JEAN-PIERRE PAPIN'
+p19
+aS'HUGO S\xc1NCHEZ'
+p20
+aS'ERIC CANTONA'
+p21
+asS'defense'
+p22
+(lp23
+S'CARLOS ALBERTO'
+p24
+aS'FRANZ BECKENBAUER'
+p25
+aS'MARIUS TR\xc9SOR'
+p26
+aS'RONALD KOEMAN'
+p27
+asS'option'
+p28
+S''
+p29
+sS'choice'
+p30
+g29
+sS'atck'
+p31
+S'Eric Cantona'
+p32
+sS'd'
+p33
+I4
+sb.
