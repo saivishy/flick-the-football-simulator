@@ -10,8 +10,11 @@ REQUIREMENTS-----
 --------------------------------------------------------------------
 -Python 2.7
 
+- winsound package  (Only available on Windows)
+
 -To play , it is MANDOTORY for you to save the TEAMS LIST.DAT file in D:\ 
 Other wise you can change the pointing location in the SOURCE CODE to which ever location required .
+
 
 
 
