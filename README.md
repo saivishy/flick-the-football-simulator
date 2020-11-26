@@ -1,4 +1,4 @@
-# flick-the-football-simulator
+# Flick the Football Simulator
 A text-based football simulator I made in high school using python. 
 
 You can choose your team and play a quick match, and the program will simulate match like events until the penalties if it has to ,
