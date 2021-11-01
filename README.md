@@ -6,19 +6,11 @@ Or you can play it with 1-4 friends at your house as it simulates a 4 team knock
 
 
 --------------------------------------------------------------------
-REQUIREMENTS-----
---------------------------------------------------------------------
+### Requirements
 - Python 2.7
-
-- winsound package  (Only available on Windows)
-
-- To play , it is MANDOTORY for you to save the TEAMS LIST.DAT file in D:\ 
-Other wise you can change the pointing location in the SOURCE CODE to which ever location required .
+- Windows PC (winsound package) 
+- Make sure you update the location of ```TEAMS LIST.DAT``` in the source code to which ever location you clone this into.
 
 
-
-
-
-
-Feel Free to tweak,reuse or upgrade the code. 
+Feel Free to tweak, reuse or upgrade the code. 
 Send me Pull requests so I can merge your code to this repository. 
